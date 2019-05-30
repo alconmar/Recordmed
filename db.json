@@ -8,7 +8,7 @@
     { "id": 1, "body": "Farmacia1", "postId": 1 },
     { "id": 2, "body": "Farmacia2", "postId": 2 }
   ],
-  "profile": {
+  "profile": [
     {"name": "Farmacia1","url": "farmacia de Madrid"},{"name": "Farmacia2","url": "farmacia de Madrid2"}
-  }
+  ]
 }
