@@ -7,7 +7,9 @@
   "farmacias": [
     { "nombre": "Farmacia Cea - C/ Preciados, 14, Madrid · 915 213 183  Abierto 9:00 - 23:00", "url": "https://www.facebook.com/Farmacia-Cea-133748960020474/" },
 	{ "nombre": "Farmacia del Águila - Fuencarral 108, Madrid · 915 215 647 Abierto 9:30 - 21:30", "url": "https://farmaciadelaguila.es/"  },
-	{ "nombre": "FARMACIA CARDONA - C/ Luna, 6, Madrid · 915 317 732 Abierto 9:30 - 21:30", "url": "-"  },
+	{ "nombre": "Farmacia CARDONA - C/ Luna, 6, Madrid · 915 317 732 Abierto 9:30 - 21:30", "url": "-"  },
+	{ "nombre": "Farmacia Ayuso de Dios - Calle Salud, 10, 28013, Madrid  Teléfono: 915 225 320", "url": "-"  },
+	{ "nombre": "Farmacia A. MONTILLA - C/ Preciados, 35, 28013, Madrid  Teléfono: 915 480 116", "url": "-"  },
 	{ "nombre": "Farmacia Trébol Víctor de la Serna - Calle Victor de la Serna 1, Madrid · 915 199 116 Abierto 9:00 - 23:00", "url": "https://www.farmaciastrebol.com/"  }
   ],
   "profile": {
